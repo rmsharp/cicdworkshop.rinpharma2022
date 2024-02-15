@@ -1,6 +1,7 @@
 # CI/CD Workshop | R in Pharma 2022
 
 R in Pharma
+
 Date: February 15, 2024
 
 Full workshop video available here: https://www.youtube.com/watch?v=OcNzurpCCpY
